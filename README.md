@@ -1,2 +1,2 @@
-# VatsSanghvi.github.io
+# Siddhi.github.io
 I have used this repository to host my personal portfolio.
